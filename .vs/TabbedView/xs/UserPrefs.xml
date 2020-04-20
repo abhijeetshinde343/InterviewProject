@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{89EB7AA8-3D2F-4BB3-AA72-49E4C7F8A0E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedView/Views/AboutPage.xaml">
+    <Files>
+      <File FileName="TabbedView.iOS/AppDelegate.cs" Line="26" Column="59" />
+      <File FileName="TabbedView.Android/MainActivity.cs" Line="21" Column="47" />
+      <File FileName="TabbedView/Views/AboutPage.xaml" Line="21" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbedView" expanded="True">
+            <Node name="TabbedView" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TabbedView.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.TabbedView.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F34E8EED-0739-4C44-9C2E-8B4FB2D94A95" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
